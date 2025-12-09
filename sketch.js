@@ -5,5 +5,5 @@ function setup() {
 function draw() {
     background(220);
 
-    //draw circles
+    //lets draw some circles
 }
